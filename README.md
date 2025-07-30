@@ -4,6 +4,10 @@ A simple CLI to quickly scaffold and add the [React Native Keypad Component](htt
 
 ---
 
+Watch demo video here: [Demo Video](https://res.cloudinary.com/dwdsjbetu/video/upload/v1753908183/Screen_Recording_2025-07-30_at_21.07.05_kcoybq.mov)
+
+![CLI Demo](https://res.cloudinary.com/dwdsjbetu/video/upload/v1753908183/Screen_Recording_2025-07-30_at_21.07.05_kcoybq.mov)
+
 ## 📦 Installation
 
 You can run it with `npx`:
@@ -15,7 +19,7 @@ npx react-native-keypad-component
 Or install globally:
 
 ```bash
-npm install -g react-native-keypad-cli
+npm install -g react-native-keypad-component-cli
 ```
 
 ## 🚀 Usage
@@ -90,9 +94,9 @@ The copied files will be organized like this:
 ```
 components/
 └── Keypad/
-    ├── index.tsx
-    ├── KeypadButton.tsx
-    └── styles.ts
+    ├── constants.ts
+    ├── Keypad.tsx
+    └── types.ts
 ```
 
 **Custom installation example:**
@@ -101,9 +105,9 @@ components/
 src/
 └── ui/
     └── Keypad/
-        ├── index.tsx
-        ├── KeypadButton.tsx
-        └── styles.ts
+        ├── constants.ts
+        ├── Keypad.tsx
+        └── types.ts
 ```
 
 ## 🛠 Customize
