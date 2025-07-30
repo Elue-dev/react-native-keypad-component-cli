@@ -13,13 +13,13 @@ Watch demo video here: [Demo Video](https://res.cloudinary.com/dwdsjbetu/image/u
 You can run it with `npx`:
 
 ```bash
-npx react-native-keypad-component
+npx rn-keypad-component-cli
 ```
 
 Or install globally:
 
 ```bash
-npm install -g react-native-keypad-component-cli
+npm install -g rn-keypad-component-cli
 ```
 
 ## 🚀 Usage
@@ -27,7 +27,7 @@ npm install -g react-native-keypad-component-cli
 Inside your React Native project directory, run:
 
 ```bash
-npx react-native-keypad-component
+npx rn-keypad-component-cli
 ```
 
 You'll be prompted to choose your installation directory:
