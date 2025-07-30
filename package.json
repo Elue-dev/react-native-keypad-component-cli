@@ -1,10 +1,13 @@
 {
-  "name": "react-native-keypad-cli",
-  "version": "1.0.0",
+  "name": "react-native-keypad-component-cli",
+  "version": "0.1.1",
   "main": "index.js",
   "bin": {
     "react-native-keypad-component": "./bin/index.js"
   },
+  "author": "Wisdom Elue",
+  "license": "MIT",
+  "description": "CLI to add the Keypad component to your React Native project",
   "keywords": [
     "react-native",
     "react-native-keypad",
@@ -18,9 +21,18 @@
     "bin",
     "template"
   ],
-  "author": "Wisdom Elue",
-  "license": "ISC",
-  "description": "CLI to add the Keypad component to your React Native project",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elue-dev/react-native-keypad-component-cli.git"
+  },
+  "homepage": "https://github.com/Elue-dev/react-native-keypad-component-cli#readme",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
+  },
+  "bugs": {
+    "url": "https://github.com/Elue-dev/react-native-keypad-component/issues"
+  },
   "dependencies": {
     "chalk": "^4.1.2",
     "ora": "^5.4.1",
