@@ -1,6 +1,6 @@
 {
   "name": "react-native-keypad-component-cli",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "main": "index.js",
   "bin": {
     "keypad-cli": "./bin/index.js"
