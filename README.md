@@ -6,8 +6,6 @@ A simple CLI to quickly scaffold and add the [React Native Keypad Component](htt
 
 Watch demo video here: [Demo Video](https://res.cloudinary.com/dwdsjbetu/video/upload/v1753908183/Screen_Recording_2025-07-30_at_21.07.05_kcoybq.mov)
 
-![CLI Demo](https://res.cloudinary.com/dwdsjbetu/video/upload/v1753908183/Screen_Recording_2025-07-30_at_21.07.05_kcoybq.mov)
-
 ## 📦 Installation
 
 You can run it with `npx`:
