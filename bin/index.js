@@ -44,9 +44,7 @@ function askQuestion(query) {
 
 async function runCLI() {
   log(chalk.bold.blueBright("\n🧮 React Native Keypad Component CLI\n"));
-  log(
-    chalk.gray("This will adddd the Keypad component into your project...\n")
-  );
+  log(chalk.gray("This will add the Keypad component into your project...\n"));
 
   const input = await askQuestion(
     chalk.cyanBright(

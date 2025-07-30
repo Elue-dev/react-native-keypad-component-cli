@@ -1,9 +1,9 @@
 {
   "name": "react-native-keypad-component-cli",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "main": "index.js",
   "bin": {
-    "react-native-keypad-component": "./bin/index.js"
+    "keypad-cli": "./bin/index.js"
   },
   "author": "Wisdom Elue",
   "license": "MIT",
@@ -11,6 +11,7 @@
   "keywords": [
     "react-native",
     "react-native-keypad",
+    "keypad-cli",
     "keypad-component",
     "keypad-component-cli",
     "react-native-keypad-component",
